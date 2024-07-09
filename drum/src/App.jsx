@@ -133,7 +133,6 @@ function App() {
           </div>
         </div>
       </div>
-      <p className='madeby'>Made by Remyboy.</p>
     </div>
   )
 }
